@@ -1,1 +1,2 @@
-# Project-37
+# trex_camera
+modified trex code with camera position
